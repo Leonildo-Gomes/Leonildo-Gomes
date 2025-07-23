@@ -17,7 +17,7 @@ Tenho sólida experiência no desenvolvimento de **aplicações críticas para a
 - 👥 **Gestão de ausências e assiduidade (Recursos Humanos)**
 - 🏗️ **Gestão de investimentos e projetos públicos**
 
-> Atuei em todas as fases dos projetos: desde análise funcional, arquitetura e desenvolvimento até testes e manutenção, garantindo **eficiência**, **transparência** e **aderência às normas da administração pública**.
+> Atuei em todas as fases dos projetos: desde análise funcional, arquitetura e desenvolvimento até  manutenção, garantindo **eficiência**, **transparência** e **aderência às normas da administração pública**.
 
 ---
 

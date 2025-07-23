@@ -82,6 +82,7 @@ Fullstack developer with over 8 years of experience in **enterprise and public s
   <img alt="SQLite" title="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="Firebase" title="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 </div>
+
 #### 💻 IDEs/Editors
 <div style="display: inline_block">
   <img alt="Visual Studio Code" title="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>

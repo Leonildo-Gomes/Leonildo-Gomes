@@ -95,6 +95,7 @@ Fullstack developer with over 8 years of experience in **enterprise and public s
 <div style="display: inline_block">
   <img alt="Firebase" title="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 </div>
+
 ---
 
 ### 📈 Estatísticas do GitHub / GitHub Stats
